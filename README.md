@@ -1,0 +1,2 @@
+# embdd
+zadace iz ugradenih
